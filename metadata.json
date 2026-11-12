@@ -1,0 +1,6 @@
+{
+  "name": "Iyadatul Maridh - Bahasa Arab Kelas 8 MTs",
+  "description": "Media pembelajaran interaktif Bahasa Arab Kelas 8 MTs tema 'Iyadatul Maridh (عيادة المريض - Menjenguk Orang Sakit) dilengkapi 4 Maharah, Tarkib Fi'il Madhi, kuis interaktif, dan AI Tutor cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
